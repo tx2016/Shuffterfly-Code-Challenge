@@ -1,0 +1,2 @@
+{customerID: 96f55c7d8f42, LTV: 6416.8}
+{customerID: 1234fjksjdfl, LTV: 188.571428571}
